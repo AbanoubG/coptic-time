@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Styles for clock -->
+  <dimen name="digital_text_size">40sp</dimen>
+  <dimen name="digital_text_size_round">45sp</dimen>
+  <dimen name="digital_x_offset">50dp</dimen>
+  <dimen name="digital_x_offset_round">55dp</dimen>
+  <dimen name="digital_y_offset">50dp</dimen>
+
+  <!-- Styles for date -->
+  <dimen name="digital_gregorian_text_size">20sp</dimen>
+  <dimen name="digital_gregorian_text_size_round">25sp</dimen>
+  <dimen name="digital_x_gregorian_offset">45dp</dimen>
+  <dimen name="digital_x_gregorian_offset_round">50dp</dimen>
+  <dimen name="digital_y_gregorian_offset">80dp</dimen>
+
+  <!-- Styles for events -->
+  <dimen name="digital_events_text_size">40sp</dimen>
+  <dimen name="digital_events_text_size_round">45sp</dimen>
+  <dimen name="digital_events_x_offset">12dp</dimen>
+  <dimen name="digital_events_x_offset_round">20dp</dimen>
+  <dimen name="digital_events_y_offset">120dp</dimen>
+
+  <!-- Styles for coptic date -->
+  <dimen name="digital_coptic_text_size">10sp</dimen>
+  <dimen name="digital_coptic_text_size_round">15sp</dimen>
+  <dimen name="digital_x_coptic_offset">55dp</dimen>
+  <dimen name="digital_x_coptic_offset_round">58dp</dimen>
+  <dimen name="digital_y_coptic_offset">170dp</dimen>
+</resources>
